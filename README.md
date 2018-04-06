@@ -5,7 +5,7 @@ http://www.jdcoin.us
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2018 Litecoin Developers
+Copyright (c) 2018 JDcoin Developers
 
 What is Jdcoin?
 ----------------
