@@ -46,7 +46,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/jdcoin-project/jdcoin/tags) are created
+completely stable. [Tags](https://github.com/kaykriz/jdcoin/tags) are created
 regularly to indicate new official, stable release versions of Jdcoin.
 
 Testing
