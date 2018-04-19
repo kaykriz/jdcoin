@@ -20,14 +20,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Jdcoin"
-            VALUE "FileDescription",    "Jdcoin-Qt (OSS GUI client for Jdcoin)"
+            VALUE "CompanyName",        "JDcoin"
+            VALUE "FileDescription",    "JDcoin-Qt (OSS GUI client for JDcoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "jdcoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "jdcoin-qt.exe"
-            VALUE "ProductName",        "Jdcoin-Qt"
+            VALUE "ProductName",        "JDcoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
