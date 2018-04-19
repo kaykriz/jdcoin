@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Jdcoin</source>
-        <translation>Info su Jdcoin</translation>
+        <source>About JDcoin</source>
+        <translation>Info su JDcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Jdcoin&lt;/b&gt; version</source>
-        <translation>Versione di &lt;b&gt;Jdcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;JDcoin&lt;/b&gt; version</source>
+        <translation>Versione di &lt;b&gt;JDcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+0"/>
-        <source>The Jdcoin developers</source>
-        <translation>Sviluppatori di Jdcoin</translation>
+        <source>The JDcoin developers</source>
+        <translation>Sviluppatori di JDcoin</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Jdcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Questi sono i tuoi indirizzi Jdcoin per ricevere pagamenti. Potrai darne uno diverso ad ognuno per tenere così traccia di chi ti sta pagando.</translation>
+        <source>These are your JDcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Questi sono i tuoi indirizzi JDcoin per ricevere pagamenti. Potrai darne uno diverso ad ognuno per tenere così traccia di chi ti sta pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Jdcoin address</source>
+        <source>Sign a message to prove you own a JDcoin address</source>
         <translation>Firma un messaggio per dimostrare di possedere questo indirizzo</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Jdcoin address</source>
-        <translation>Verifica un messaggio per accertarsi che sia firmato con un indirizzo Jdcoin specifico</translation>
+        <source>Verify a message to ensure it was signed with a specified JDcoin address</source>
+        <translation>Verifica un messaggio per accertarsi che sia firmato con un indirizzo JDcoin specifico</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,7 +122,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Jdcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your JDcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -138,7 +138,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Invia &amp;Jdcoin</translation>
+        <translation>Invia &amp;JDcoin</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -275,8 +275,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-56"/>
-        <source>Jdcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your jdcoins from being stolen by malware infecting your computer.</source>
-        <translation>Jdcoin verrà ora chiuso per finire il processo di crittazione. Ricorda che criptare il tuo portamonete non può fornire una protezione totale contro furti causati da malware che dovessero infettare il tuo computer.</translation>
+        <source>JDcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your jdcoins from being stolen by malware infecting your computer.</source>
+        <translation>JDcoin verrà ora chiuso per finire il processo di crittazione. Ricorda che criptare il tuo portamonete non può fornire una protezione totale contro furti causati da malware che dovessero infettare il tuo computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Jdcoin</source>
-        <translation>Mostra informazioni su Jdcoin</translation>
+        <source>Show information about JDcoin</source>
+        <translation>Mostra informazioni su JDcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,12 +419,12 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Jdcoin address</source>
+        <source>Send coins to a JDcoin address</source>
         <translation>Invia monete ad un indirizzo jdcoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Jdcoin</source>
+        <source>Modify configuration options for JDcoin</source>
         <translation>Modifica configurazione opzioni per jdcoin</translation>
     </message>
     <message>
@@ -455,8 +455,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Jdcoin</source>
-        <translation>Jdcoin</translation>
+        <source>JDcoin</source>
+        <translation>JDcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Jdcoin</source>
-        <translation>&amp;Info su Jdcoin</translation>
+        <source>&amp;About JDcoin</source>
+        <translation>&amp;Info su JDcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Jdcoin addresses to prove you own them</source>
-        <translation>Firma i messaggi con il tuo indirizzo Jdcoin per dimostrare di possederli</translation>
+        <source>Sign messages with your JDcoin addresses to prove you own them</source>
+        <translation>Firma i messaggi con il tuo indirizzo JDcoin per dimostrare di possederli</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Jdcoin addresses</source>
-        <translation>Verifica i messaggi per accertarsi che siano stati firmati con gli indirizzi Jdcoin specificati</translation>
+        <source>Verify messages to ensure they were signed with specified JDcoin addresses</source>
+        <translation>Verifica i messaggi per accertarsi che siano stati firmati con gli indirizzi JDcoin specificati</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+47"/>
-        <source>Jdcoin client</source>
-        <translation>Jdcoin client</translation>
+        <source>JDcoin client</source>
+        <translation>JDcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Jdcoin network</source>
-        <translation><numerusform>%n connessione attiva alla rete Jdcoin</numerusform><numerusform>%n connessioni attive alla rete Jdcoin</numerusform></translation>
+        <source>%n active connection(s) to JDcoin network</source>
+        <translation><numerusform>%n connessione attiva alla rete JDcoin</numerusform><numerusform>%n connessioni attive alla rete JDcoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,8 +657,8 @@ Indirizzo: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Jdcoin address or malformed URI parameters.</source>
-        <translation>Impossibile interpretare l&apos;URI! Ciò può essere causato da un indirizzo Jdcoin invalido o da parametri URI non corretti.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid JDcoin address or malformed URI parameters.</source>
+        <translation>Impossibile interpretare l&apos;URI! Ciò può essere causato da un indirizzo JDcoin invalido o da parametri URI non corretti.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,8 +672,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Jdcoin can no longer continue safely and will quit.</source>
-        <translation>Riscontrato un errore irreversibile. Jdcoin non può più continuare in sicurezza e verrà terminato.</translation>
+        <source>A fatal error occurred. JDcoin can no longer continue safely and will quit.</source>
+        <translation>Riscontrato un errore irreversibile. JDcoin non può più continuare in sicurezza e verrà terminato.</translation>
     </message>
 </context>
 <context>
@@ -738,7 +738,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Jdcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid JDcoin address.</source>
         <translation>L&apos;indirizzo inserito &quot;%1&quot; non è un indirizzo jdcoin valido.</translation>
     </message>
     <message>
@@ -757,8 +757,8 @@ Indirizzo: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Jdcoin-Qt</source>
-        <translation>Jdcoin-Qt</translation>
+        <source>JDcoin-Qt</source>
+        <translation>JDcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -821,13 +821,13 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Jdcoin after logging in to the system.</source>
-        <translation>Avvia automaticamente Jdcoin all&apos;accensione del computer</translation>
+        <source>Automatically start JDcoin after logging in to the system.</source>
+        <translation>Avvia automaticamente JDcoin all&apos;accensione del computer</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Jdcoin on system login</source>
-        <translation>&amp;Fai partire Jdcoin all&apos;avvio del sistema</translation>
+        <source>&amp;Start JDcoin on system login</source>
+        <translation>&amp;Fai partire JDcoin all&apos;avvio del sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -846,8 +846,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Jdcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Apri automaticamente la porta del client Jdcoin sul router. Questo funziona solo se il router supporta UPnP ed è abilitato.</translation>
+        <source>Automatically open the JDcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Apri automaticamente la porta del client JDcoin sul router. Questo funziona solo se il router supporta UPnP ed è abilitato.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -856,7 +856,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Jdcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the JDcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Connettiti alla rete Bitcon attraverso un proxy SOCKS (ad esempio quando ci si collega via Tor)</translation>
     </message>
     <message>
@@ -931,8 +931,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Jdcoin.</source>
-        <translation>La lingua dell&apos;interfaccia utente può essere impostata qui. L&apos;impostazione avrà effetto dopo il riavvio di Jdcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting JDcoin.</source>
+        <translation>La lingua dell&apos;interfaccia utente può essere impostata qui. L&apos;impostazione avrà effetto dopo il riavvio di JDcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -946,8 +946,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Jdcoin addresses in the transaction list or not.</source>
-        <translation>Se mostrare l&apos;indirizzo Jdcoin nella transazione o meno.</translation>
+        <source>Whether to show JDcoin addresses in the transaction list or not.</source>
+        <translation>Se mostrare l&apos;indirizzo JDcoin nella transazione o meno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -998,8 +998,8 @@ Indirizzo: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Jdcoin.</source>
-        <translation>L&apos;impostazione avrà effetto dopo il riavvio di Jdcoin.</translation>
+        <source>This setting will take effect after restarting JDcoin.</source>
+        <translation>L&apos;impostazione avrà effetto dopo il riavvio di JDcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1017,8 +1017,8 @@ Indirizzo: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Jdcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Le informazioni visualizzate sono datate. Il tuo partafogli verrà sincronizzato automaticamente con il network Jdcoin dopo che la connessione è stabilita, ma questo processo non può essere completato ora.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JDcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Le informazioni visualizzate sono datate. Il tuo partafogli verrà sincronizzato automaticamente con il network JDcoin dopo che la connessione è stabilita, ma questo processo non può essere completato ora.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1221,8 +1221,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Jdcoin-Qt help message to get a list with possible Jdcoin command-line options.</source>
-        <translation>Mostra il messaggio di aiuto di Jdcoin-QT per avere la lista di tutte le opzioni della riga di comando di Jdcoin.</translation>
+        <source>Show the JDcoin-Qt help message to get a list with possible JDcoin command-line options.</source>
+        <translation>Mostra il messaggio di aiuto di JDcoin-QT per avere la lista di tutte le opzioni della riga di comando di JDcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,12 +1241,12 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Jdcoin - Debug window</source>
-        <translation>Jdcoin - Finestra debug</translation>
+        <source>JDcoin - Debug window</source>
+        <translation>JDcoin - Finestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Jdcoin Core</source>
+        <source>JDcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1256,8 +1256,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Jdcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Apri il file di log del debug di Jdcoin dalla cartella attuale. Può richiedere alcuni secondi per file di log grandi.</translation>
+        <source>Open the JDcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Apri il file di log del debug di JDcoin dalla cartella attuale. Può richiedere alcuni secondi per file di log grandi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1266,8 +1266,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Jdcoin RPC console.</source>
-        <translation>Benvenuto nella console RPC di Jdcoin</translation>
+        <source>Welcome to the JDcoin RPC console.</source>
+        <translation>Benvenuto nella console RPC di JDcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1292,7 +1292,7 @@ Indirizzo: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Spedisci Jdcoin</translation>
+        <translation>Spedisci JDcoin</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1450,8 +1450,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Jdcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Inserisci un indirizzo Jdcoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a JDcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Inserisci un indirizzo JDcoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1474,7 +1474,7 @@ Indirizzo: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Inserisci un indirizzo Jdcoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Inserisci un indirizzo JDcoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1515,7 +1515,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Jdcoin address</source>
+        <source>Sign the message to prove you own this JDcoin address</source>
         <translation>Firma un messaggio per dimostrare di possedere questo indirizzo</translation>
     </message>
     <message>
@@ -1547,12 +1547,12 @@ Indirizzo: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Inserisci un indirizzo Jdcoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Inserisci un indirizzo JDcoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Jdcoin address</source>
-        <translation>Verifica il messaggio per assicurarsi che sia stato firmato con l&apos;indirizzo Jdcoin specificato</translation>
+        <source>Verify the message to ensure it was signed with the specified JDcoin address</source>
+        <translation>Verifica il messaggio per assicurarsi che sia stato firmato con l&apos;indirizzo JDcoin specificato</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1567,8 +1567,8 @@ Indirizzo: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Jdcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Inserisci un indirizzo Jdcoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a JDcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Inserisci un indirizzo JDcoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1577,8 +1577,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Jdcoin signature</source>
-        <translation>Inserisci firma Jdcoin</translation>
+        <source>Enter JDcoin signature</source>
+        <translation>Inserisci firma JDcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1651,8 +1651,8 @@ Indirizzo: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Jdcoin developers</source>
-        <translation>Sviluppatori di Jdcoin</translation>
+        <source>The JDcoin developers</source>
+        <translation>Sviluppatori di JDcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2139,7 +2139,7 @@ Indirizzo: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Spedisci Jdcoin</translation>
+        <translation>Spedisci JDcoin</translation>
     </message>
 </context>
 <context>
@@ -2189,8 +2189,8 @@ Indirizzo: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Jdcoin version</source>
-        <translation>Versione di Jdcoin</translation>
+        <source>JDcoin version</source>
+        <translation>Versione di JDcoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2318,7 +2318,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;JDcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2334,8 +2334,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Jdcoin is probably already running.</source>
-        <translation>Non è possibile ottenere i dati sulla cartella %s. Probabilmente Jdcoin è già in esecuzione.</translation>
+        <source>Cannot obtain a lock on data directory %s. JDcoin is probably already running.</source>
+        <translation>Non è possibile ottenere i dati sulla cartella %s. Probabilmente JDcoin è già in esecuzione.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2379,8 +2379,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Jdcoin will not work properly.</source>
-        <translation>Attenzione: si prega di controllare che la data del computer e l&apos;ora siano corrette. Se il vostro orologio è sbagliato Jdcoin non funziona correttamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong JDcoin will not work properly.</source>
+        <translation>Attenzione: si prega di controllare che la data del computer e l&apos;ora siano corrette. Se il vostro orologio è sbagliato JDcoin non funziona correttamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2629,8 +2629,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Jdcoin Wiki for SSL setup instructions)</source>
-        <translation>Opzioni SSL: (vedi il wiki di Jdcoin per le istruzioni di configurazione SSL)</translation>
+        <source>SSL options: (see the JDcoin Wiki for SSL setup instructions)</source>
+        <translation>Opzioni SSL: (vedi il wiki di JDcoin per le istruzioni di configurazione SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2831,13 +2831,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Jdcoin</source>
-        <translation>Errore caricamento wallet.dat: il wallet richiede una versione nuova di Jdcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of JDcoin</source>
+        <translation>Errore caricamento wallet.dat: il wallet richiede una versione nuova di JDcoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Jdcoin to complete</source>
-        <translation>Il portamonete deve essere riscritto: riavviare Jdcoin per completare</translation>
+        <source>Wallet needed to be rewritten: restart JDcoin to complete</source>
+        <translation>Il portamonete deve essere riscritto: riavviare JDcoin per completare</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2896,8 +2896,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Jdcoin is probably already running.</source>
-        <translation>Impossibile collegarsi alla %s su questo computer. Probabilmente Jdcoin è già in esecuzione.</translation>
+        <source>Unable to bind to %s on this computer. JDcoin is probably already running.</source>
+        <translation>Impossibile collegarsi alla %s su questo computer. Probabilmente JDcoin è già in esecuzione.</translation>
     </message>
     <message>
         <location line="+64"/>

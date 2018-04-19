@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Jdcoin</source>
-        <translation>Apie Jdcoin</translation>
+        <source>About JDcoin</source>
+        <translation>Apie JDcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Jdcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Jdcoin&lt;/b&gt; versija</translation>
+        <source>&lt;b&gt;JDcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;JDcoin&lt;/b&gt; versija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,7 +33,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+0"/>
-        <source>The Jdcoin developers</source>
+        <source>The JDcoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -66,8 +66,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Jdcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tai yra jūsų Jdcoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
+        <source>These are your JDcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tai yra jūsų JDcoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Jdcoin address</source>
-        <translation>Pasirašykite žinutę, kad įrodytume, jog esate Jdcoin adreso savininkas</translation>
+        <source>Sign a message to prove you own a JDcoin address</source>
+        <translation>Pasirašykite žinutę, kad įrodytume, jog esate JDcoin adreso savininkas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Jdcoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Jdcoin adresas</translation>
+        <source>Verify a message to ensure it was signed with a specified JDcoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas JDcoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Jdcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your JDcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -274,8 +274,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-56"/>
-        <source>Jdcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your jdcoins from being stolen by malware infecting your computer.</source>
-        <translation>Jdcoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti jdcoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
+        <source>JDcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your jdcoins from being stolen by malware infecting your computer.</source>
+        <translation>JDcoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti jdcoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Jdcoin</source>
-        <translation>Rodyti informaciją apie Jdcoin</translation>
+        <source>Show information about JDcoin</source>
+        <translation>Rodyti informaciją apie JDcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,12 +418,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Jdcoin address</source>
-        <translation>Siųsti monetas Jdcoin adresui</translation>
+        <source>Send coins to a JDcoin address</source>
+        <translation>Siųsti monetas JDcoin adresui</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Jdcoin</source>
+        <source>Modify configuration options for JDcoin</source>
         <translation>Keisti jdcoin konfigūracijos galimybes</translation>
     </message>
     <message>
@@ -454,8 +454,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Jdcoin</source>
-        <translation>Jdcoin</translation>
+        <source>JDcoin</source>
+        <translation>JDcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Jdcoin</source>
-        <translation>&amp;Apie Jdcoin</translation>
+        <source>&amp;About JDcoin</source>
+        <translation>&amp;Apie JDcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,12 +499,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Jdcoin addresses to prove you own them</source>
+        <source>Sign messages with your JDcoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Jdcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified JDcoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -535,13 +535,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+47"/>
-        <source>Jdcoin client</source>
-        <translation>Jdcoin klientas</translation>
+        <source>JDcoin client</source>
+        <translation>JDcoin klientas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Jdcoin network</source>
-        <translation><numerusform>%n Jdcoin tinklo aktyvus ryšys</numerusform><numerusform>%n Jdcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Jdcoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to JDcoin network</source>
+        <translation><numerusform>%n JDcoin tinklo aktyvus ryšys</numerusform><numerusform>%n JDcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n JDcoin tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -654,7 +654,7 @@ Adresas: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Jdcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid JDcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,7 +669,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Jdcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. JDcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -735,8 +735,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Jdcoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Jdcoin adresas.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid JDcoin address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis JDcoin adresas.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -754,8 +754,8 @@ Adresas: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Jdcoin-Qt</source>
-        <translation>Jdcoin-Qt</translation>
+        <source>JDcoin-Qt</source>
+        <translation>JDcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -817,13 +817,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Jdcoin after logging in to the system.</source>
+        <source>Automatically start JDcoin after logging in to the system.</source>
         <translation>Automatiškai paleisti Bitkoin programą įjungus sistemą.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Jdcoin on system login</source>
-        <translation>&amp;Paleisti Jdcoin programą su window sistemos paleidimu</translation>
+        <source>&amp;Start JDcoin on system login</source>
+        <translation>&amp;Paleisti JDcoin programą su window sistemos paleidimu</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -842,8 +842,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Jdcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Jdcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the JDcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti JDcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -852,7 +852,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Jdcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the JDcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Jungtis į Bitkoin tinklą per  socks proxy (pvz. jungiantis per Tor)</translation>
     </message>
     <message>
@@ -927,8 +927,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Jdcoin.</source>
-        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Jdcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting JDcoin.</source>
+        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus JDcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -942,7 +942,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Jdcoin addresses in the transaction list or not.</source>
+        <source>Whether to show JDcoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -994,7 +994,7 @@ Adresas: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Jdcoin.</source>
+        <source>This setting will take effect after restarting JDcoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1013,7 +1013,7 @@ Adresas: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Jdcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JDcoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1217,7 +1217,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Jdcoin-Qt help message to get a list with possible Jdcoin command-line options.</source>
+        <source>Show the JDcoin-Qt help message to get a list with possible JDcoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1237,13 +1237,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Jdcoin - Debug window</source>
-        <translation>Jdcoin - Derinimo langas</translation>
+        <source>JDcoin - Debug window</source>
+        <translation>JDcoin - Derinimo langas</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Jdcoin Core</source>
-        <translation>Jdcoin branduolys</translation>
+        <source>JDcoin Core</source>
+        <translation>JDcoin branduolys</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1252,7 +1252,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Jdcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the JDcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1262,7 +1262,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Jdcoin RPC console.</source>
+        <source>Welcome to the JDcoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1446,7 +1446,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Jdcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a JDcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1511,7 +1511,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Jdcoin address</source>
+        <source>Sign the message to prove you own this JDcoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -1547,8 +1547,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Jdcoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Jdcoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified JDcoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas JDcoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,7 +1563,7 @@ Adresas: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Jdcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a JDcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1573,8 +1573,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Jdcoin signature</source>
-        <translation>Įveskite Jdcoin parašą</translation>
+        <source>Enter JDcoin signature</source>
+        <translation>Įveskite JDcoin parašą</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1647,7 +1647,7 @@ Adresas: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Jdcoin developers</source>
+        <source>The JDcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2185,8 +2185,8 @@ Adresas: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Jdcoin version</source>
-        <translation>Jdcoin versija</translation>
+        <source>JDcoin version</source>
+        <translation>JDcoin versija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2304,7 +2304,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;JDcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2320,7 +2320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Jdcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. JDcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2365,8 +2365,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Jdcoin will not work properly.</source>
-        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Jdcoin, veiks netinkamai.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong JDcoin will not work properly.</source>
+        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas JDcoin, veiks netinkamai.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2615,8 +2615,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Jdcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL opcijos (žr.e Jdcoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the JDcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL opcijos (žr.e JDcoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2805,13 +2805,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Jdcoin</source>
-        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Jdcoin versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of JDcoin</source>
+        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės JDcoin versijos</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Jdcoin to complete</source>
-        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Jdcoin</translation>
+        <source>Wallet needed to be rewritten: restart JDcoin to complete</source>
+        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite JDcoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2870,8 +2870,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Jdcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Jdcoin is probably already running.</source>
-        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. Jdcoin tikriausiai jau veikia.</translation>
+        <source>Unable to bind to %s on this computer. JDcoin is probably already running.</source>
+        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. JDcoin tikriausiai jau veikia.</translation>
     </message>
     <message>
         <location line="+64"/>
